@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Free Republic of Hesturiya",
+    "aliases": ["hesturiya", "frh"],
+    "rarity": "Rare",
+    "image": "https://example.com/hesturiya_flag.png"
+  },
+  {
+    "name": "Fifth Republic of Owlia",
+    "aliases": ["fro", "fifth republic of owlia"],
+    "rarity": "Legendary",
+    "image": "https://example.com/owlia_flag.png"
+  },
+  {
+    "name": "Provisional Government",
+    "aliases": ["provisional"],
+    "rarity": "Common",
+    "image": "https://example.com/provisional.png"
+  }
+]
